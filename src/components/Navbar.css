@@ -1,0 +1,22 @@
+.navbar{
+    background-color: black;
+}
+
+.menu{
+    text-align: center;
+}
+
+
+li{
+    list-style: none;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+}
+
+li a:hover{
+    color: red;
+}
+
